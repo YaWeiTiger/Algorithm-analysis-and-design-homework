@@ -2,10 +2,6 @@ package lab3;
 
 import java.util.*;
 
-import java.util.*;
-
-import java.util.*;
-
 public class SalesmanProblem {
     private static int[][] distance; // 存储城市间距离矩阵
     private static int[] path; // 存储当前路径
